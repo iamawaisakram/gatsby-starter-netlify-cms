@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: iamawaisakram/Netlify Testing CMS
+  repo: iamawaisakram/gatsby-starter-netlify-cms
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
